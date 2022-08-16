@@ -1,9 +1,10 @@
-## My DHDK Portfolio
+# My DHDK Portfolio
 This repository hosts the links to the projects' repositories and websites that have been developed for the courses of the master's degree in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) of the University of Bologna.
 >**Note**<br>
 >**Some projects have not been completed yet and some others do not have a presentational website. The latter case depends on the purpose of the project (e.g. it could be when the aim is to develop a software).**
 
-## Secrtions and Courses
+
+## Sections and courses
 ### Knowledge Management
 - **Knowledge Organization and Cultural Heritage**: SkŁODowska, a Linked Open Data project - [Website](https://sklodowskaproject.github.io/) | [Repository](https://github.com/SkLODowskaProject/sklodowskaproject.github.io.git)
 - **Knowledge Representation and Extraction** - (still ongoing)
