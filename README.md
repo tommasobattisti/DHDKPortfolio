@@ -12,12 +12,12 @@ This repository hosts the links to the projects' repositories and websites that 
 ### Computational Management of Data
 - **Data Science**: A software to store and retrieve data from relational and triplestore databses - [Repository](https://github.com/EverythingIsSoupGroup/SoupSoftware.git)
 
+### Digital Heritage and Multimedia
+- **Interaction Media Design &amp; Museology, Museography and Virtual Environments** - [Repository](https://github.com/Postitisnt/CeRTo_Project.git)
+
 ### Digital Text
 - **Digital Text in the Humanities: Theories, Methodologies and Applications**: The Gender OBserver of Books for Youngsters and KIDs (GOBBY KID) project - (still ongoing)
 
 ### Web Technologies
 - **Information Modelling and Web Technologies** - (still ongoing)
-
-### Digital Heritage and Multimedia
-- **Interaction Media Design &amp; Museology, Museography and Virtual Environments** - (still ongoing)
 
