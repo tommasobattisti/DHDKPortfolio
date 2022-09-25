@@ -16,7 +16,7 @@ This repository hosts the links to the projects' repositories and websites that 
 - **Interaction Media Design &amp; Museology, Museography and Virtual Environments** - [Repository](https://github.com/Postitisnt/CeRTo_Project.git) | [App Prototype](https://www.figma.com/proto/F7pfeLru1M8YgHzFSFT5mX/CeRTo-Project?node-id=0%3A1&viewport=1145%2C2762%2C0.32&scaling=scale-down&starting-point-node-id=2%3A2) | [Presentation](https://www.figma.com/proto/x1za7Dm9yRxMjV4ms5Brc4/CeRTo-Presentation?node-id=0%3A1&viewport=262%2C441%2C0.05&scaling=scale-down&starting-point-node-id=3%3A98&show-proto-sidebar=1)
 
 ### Digital Text
-- **Digital Text in the Humanities: Theories, Methodologies and Applications**: The Gender OBserver of Books for Youngsters and KIDs (GOBBY KID) project - (still ongoing)
+- **Digital Text in the Humanities: Theories, Methodologies and Applications**: The Gender OBserver of Books for Youngsters and KIDs (GOBBY KID) project - (still ongoing) - [Repositories](https://github.com/gobbykid)
 
 ### Web Technologies
 - **Information Modelling and Web Technologies** - (still ongoing)
