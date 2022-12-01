@@ -10,7 +10,7 @@ This repository hosts the links to the projects' repositories and websites that 
 - **Knowledge Representation and Extraction** - (still ongoing)
 
 ### Computational Management of Data
-- **Data Science**: A software to store and retrieve data from relational and triplestore databses - [Repository](https://github.com/EverythingIsSoupGroup/SoupSoftware.git)
+- **Data Science**: A software to store and retrieve data from relational and triplestore databases - [Repository](https://github.com/EverythingIsSoupGroup/SoupSoftware.git)
 
 ### Digital Heritage and Multimedia
 - **Interaction Media Design &amp; Museology, Museography and Virtual Environments** - [Repository](https://github.com/Postitisnt/CeRTo_Project.git) | [App Prototype](https://www.figma.com/proto/F7pfeLru1M8YgHzFSFT5mX/CeRTo-Project?node-id=0%3A1&viewport=1145%2C2762%2C0.32&scaling=scale-down&starting-point-node-id=2%3A2) | [Presentation](https://www.figma.com/proto/x1za7Dm9yRxMjV4ms5Brc4/CeRTo-Presentation?node-id=0%3A1&viewport=262%2C441%2C0.05&scaling=scale-down&starting-point-node-id=3%3A98&show-proto-sidebar=1)
