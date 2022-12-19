@@ -21,3 +21,10 @@ This repository hosts the links to the projects' repositories and websites that 
 ### Web Technologies
 - **Information Modelling and Web Technologies** - (still ongoing)
 
+### Communication and Social Media
+- **Information Visualization** - (still ongoing)
+- **Network analysis** - (still ongoing)
+
+### Artificial Intelligence
+- **Machine learning** - (still ongoing)
+- Natural Language Processing - (still ongoing)
