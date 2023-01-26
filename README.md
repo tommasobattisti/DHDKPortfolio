@@ -19,11 +19,11 @@ This repository hosts the links to the projects' repositories and websites that 
 - **Digital Text in the Humanities: Theories, Methodologies and Applications**: The Gender OBserver of Books for Youngsters and KIDs (GOBBYKID) project - [Website](https://the-gobbykid-project.gitbook.io/gobbykid-project/) | [Repositories](https://github.com/gobbykid)
 
 ### Web Technologies
-- **Information Modelling and Web Technologies** - (still ongoing)
+- **Information Modelling and Web Technologies** - [Website](https://tommasobattisti.github.io/theConspiracist/) | [Repository](https://github.com/tommasobattisti/theConspiracist.git)
 
 ### Communication and Social Media
 - **Information Visualization** - (still ongoing)
-- **Network analysis** - (still ongoing)
+- **Network analysis** - [Repository with report](https://github.com/tommasobattisti/COVID-19-Citations-Network-Analysis.git)
 
 ### Artificial Intelligence
 - **Machine learning** - (still ongoing)
